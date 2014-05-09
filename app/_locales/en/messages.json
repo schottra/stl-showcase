@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "stlShowcase",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "STL Viewer",
+        "description": "The description of the application"
+    }
+}
